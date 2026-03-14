@@ -1,3 +1,11 @@
+/*-----------Football Quiz Game------------
+-----------------------------------------------------------------------
+This program asks users 5 question related to football and displays score and correct answers in end.
+-----------------------------------------------------------------------
+Written by Muhammad Mehrooz Asad Gill (mmehroozgill@gmail.com) on 14-March-2026.
+IDE: Visual Studio Code 1.109.5
+C Compiler: GCC (Built by MSYS2 Project) version 15.2.0*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
